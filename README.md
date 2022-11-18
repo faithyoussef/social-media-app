@@ -1,6 +1,11 @@
 # mmp
+a facebook mock or something similar to it.
+with a messenger
+a search field,
+a navigation bar,
+working on getting notification through firebase.
+if you have any recommendations please do write them.
 
-A new Flutter project.
 
 ## Getting Started
 
